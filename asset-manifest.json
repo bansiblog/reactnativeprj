@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactnativeprj/static/css/main.50f86e29.chunk.css",
+    "main.js": "/reactnativeprj/static/js/main.d8408fea.chunk.js",
+    "main.js.map": "/reactnativeprj/static/js/main.d8408fea.chunk.js.map",
+    "runtime-main.js": "/reactnativeprj/static/js/runtime-main.46214877.js",
+    "runtime-main.js.map": "/reactnativeprj/static/js/runtime-main.46214877.js.map",
+    "static/js/2.310eb516.chunk.js": "/reactnativeprj/static/js/2.310eb516.chunk.js",
+    "static/js/2.310eb516.chunk.js.map": "/reactnativeprj/static/js/2.310eb516.chunk.js.map",
+    "index.html": "/reactnativeprj/index.html",
+    "precache-manifest.0341629eca5039e2e3496b671b3eb642.js": "/reactnativeprj/precache-manifest.0341629eca5039e2e3496b671b3eb642.js",
+    "service-worker.js": "/reactnativeprj/service-worker.js",
+    "static/css/main.50f86e29.chunk.css.map": "/reactnativeprj/static/css/main.50f86e29.chunk.css.map",
+    "static/js/2.310eb516.chunk.js.LICENSE.txt": "/reactnativeprj/static/js/2.310eb516.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46214877.js",
+    "static/js/2.310eb516.chunk.js",
+    "static/css/main.50f86e29.chunk.css",
+    "static/js/main.d8408fea.chunk.js"
+  ]
+}
